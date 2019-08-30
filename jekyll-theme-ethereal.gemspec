@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["David Mougeolle"]
   spec.email         = ["david.mougeolle@moodule.net"]
 
-  spec.summary       = "An outstanding horizontal scrolling Jekyll template."
+  spec.summary       = "An outstanding Jekyll template in a horizontal layout."
   spec.homepage      = "https://github.com/moodule/jekyll-theme-ethereal"
   spec.license       = "CC-BY-4.0"
 
