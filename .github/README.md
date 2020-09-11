@@ -4,7 +4,7 @@
 
 You can preview the theme [here](https://moodule.github.io/jekyll-theme-ethereal)
 
-![Ethereal Theme](assets/images/screenshot.webp "Ethereal Theme")
+![Ethereal Theme](../assets/images/screenshot.webp "Ethereal Theme")
 
 # Features
 
